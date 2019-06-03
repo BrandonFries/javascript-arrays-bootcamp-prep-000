@@ -5,5 +5,5 @@ var chocolateBars = [
   'skittles'
 ]
 
-var addElementToBeginningOfArray = ["array", "element"];
+function addElementToBeginningOfArray = ["array", "element"];
 addElementToBeginningOfArray.push("element");
