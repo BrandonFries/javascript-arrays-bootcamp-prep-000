@@ -6,3 +6,4 @@ var chocolateBars = [
 ]
 var addElementToBeginningOfArray = [array, element]
 'addElementToBeginningOfArray'.push('element')
+]
